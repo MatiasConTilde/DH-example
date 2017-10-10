@@ -1,0 +1,24 @@
+{
+  "name": "dh-example",
+  "version": "1.0.0",
+  "description": "A simple example to show how DH key exchange works",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"¯\\_(ツ)_/¯\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiasConTilde/DH-example.git"
+  },
+  "author": "Matías con tilde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatiasConTilde/DH-example/issues"
+  },
+  "homepage": "https://github.com/MatiasConTilde/DH-example#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "socket.io": "^2.0.3"
+  }
+}
